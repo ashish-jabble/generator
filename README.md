@@ -7,18 +7,23 @@ This is a Python-based T20 match simulator that generates a configurable number 
 
 ## 📁 Project Structure
 
+<details> <summary><strong>📂 Project Structure</strong> (click to expand)</summary>
+
 cricket_match_simulator/
 │
-├── config/ # External configurations
-│ ├── teams.json # Team players list
-│ ├── venues.json # Match venues
-│ └── umpires.json # Umpire names
+├── config/ # 📁 External configurations (editable JSON files)
+│ ├── teams.json # 👥 List of players for India and New Zealand
+│ ├── venues.json # 🏟️ List of possible match venues
+│ └── umpires.json # 🧑‍⚖️ List of available umpires
 │
-├── config_loader.py # Loads JSON configurations
-├── match_generator.py # Simulates an individual match
-├── series_generator.py # Simulates an entire match series
-├── main.py # Main entry point
-└── output/ # JSON output will be saved here
+├── config_loader.py # 🔧 Module to load data from config JSON files
+├── match_generator.py # 🎲 Core logic to simulate one T20 match
+├── series_generator.py # 🔁 Logic to generate and save multiple matches
+├── main.py # 🚀 Entry script to trigger the simulation
+│
+└── output/ # 📦 Auto-created directory to store the JSON results
+
+</details>
 
 
 ---
