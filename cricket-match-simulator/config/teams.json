@@ -1,0 +1,12 @@
+{
+    "india": [
+        "Virat Kohli", "Rohit Sharma", "Hardik Pandya", "Jasprit Bumrah", "KL Rahul",
+        "Suryakumar Yadav", "Rishabh Pant", "Shreyas Iyer", "Ravindra Jadeja",
+        "Bhuvneshwar Kumar", "Yuzvendra Chahal", "Washington Sundar", "Deepak Hooda"
+    ],
+    "new_zealand": [
+        "Kane Williamson", "Devon Conway", "Trent Boult", "Mitchell Santner", "Martin Guptill",
+        "James Neesham", "Daryl Mitchell", "Ish Sodhi", "Kyle Jamieson", "Lockie Ferguson",
+        "Tim Southee", "Mark Chapman", "Glenn Phillips"
+    ]
+}
